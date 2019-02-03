@@ -11,5 +11,5 @@ echo ERROR
 
 fi
 
-sleep 2
+sleep 3
 done
